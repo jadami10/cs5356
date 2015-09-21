@@ -13,3 +13,12 @@ Create a sleek mobile site and app that allows users to subscribe for technical 
 
 We need to work out a reliable payment model. We need to be able to verify professionals, endorse their skills, and create stratified levels of support. There needs to reliable help and escalation ability to solve issues with reliable times.
 
+### User Stories
+
+User Story 1: Full time Student with extra time can make $$ on the side by answering IT questions she already knows the answers to.
+
+User Story 2: Grandpa asks you for computer help, but you have no idea what's wrong. But there is a cheap service out there for you to get him IT help saving both of you time and headaches.
+
+### Project Management
+
+* [Trello](https://trello.com/b/Bb9gVAFI)
